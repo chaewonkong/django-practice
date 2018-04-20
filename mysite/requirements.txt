@@ -6,6 +6,8 @@ chardet==3.0.4
 Cython==0.26.1
 decorator==4.1.2
 Django==2.0.2
+django-appconf==1.0.2
+django-imagekit==4.0.2
 docutils==0.14
 idna==2.6
 imagekit==1.0.6
@@ -15,6 +17,7 @@ jedi==0.11.0
 parso==0.1.0
 pexpect==4.3.0
 pickleshare==0.7.4
+pilkit==2.0
 Pillow==5.1.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
